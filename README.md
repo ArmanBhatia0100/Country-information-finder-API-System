@@ -2,6 +2,8 @@
 
 Welcome to the **Countries Info Web App**! This React-powered web application fetches and displays information about all countries using a public API. Users can explore country details, including population, currency, language, and more, with an intuitive and visually appealing UI.
 
+ ![Screenshot](countryapi.png)
+
 ## 🚀 Features
 
 - 🗺️ **View All Countries** – Get a complete list of countries with key details.
