@@ -45,7 +45,7 @@ https://restcountries.com/v3.1/all
 ```
 
 ## 📸 Screenshots
-![Screenshot](https://your-image-url.com)
+![Screenshot](countryapi.png)
 
 ## 💡 Future Enhancements
 - 🌐 **Language Selection** – Translate country names and descriptions.
@@ -56,6 +56,6 @@ https://restcountries.com/v3.1/all
 Contributions are welcome! Feel free to fork this repo and submit pull requests. 
 
 ## 📩 Contact
-Have any questions or suggestions? Reach out at [your-email@example.com](mailto:your-email@example.com).
+Have any questions or suggestions? Reach out at [your-email@example.com](mailto:arman.bhatia.1407@gmail.com).
 
 🚀 **Explore the world with a single click! Happy coding!** ✨
